@@ -2,14 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>EpigeneticSyrup</RootNamespace>
+    <RootNamespace>EpigeneticSyrup.Builtin</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <AssemblyName>EpigeneticSyrup</AssemblyName>
+    <AssemblyName>EpigeneticSyrup.Builtin</AssemblyName>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Epigenetic-Syrup.Builtin\Epigenetic-Syrup.Builtin.csproj" />
     <ProjectReference Include="..\Epigenetic-Syrup.Interfaces\Epigenetic-Syrup.Interfaces.csproj" />
   </ItemGroup>
 

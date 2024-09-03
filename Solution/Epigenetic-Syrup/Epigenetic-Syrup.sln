@@ -5,6 +5,10 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epigenetic-Syrup", "Epigenetic-Syrup\Epigenetic-Syrup.csproj", "{7D24A572-6981-4C3A-9013-5D35B4BC9808}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epigenetic-Syrup.Builtin", "Epigenetic-Syrup.Builtin\Epigenetic-Syrup.Builtin.csproj", "{3FBA78E0-DFE4-4786-B463-42D98ECE259A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Epigenetic-Syrup.Interfaces", "Epigenetic-Syrup.Interfaces\Epigenetic-Syrup.Interfaces.csproj", "{A40E38C6-605E-49A8-B35C-383AE5137AE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{7D24A572-6981-4C3A-9013-5D35B4BC9808}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D24A572-6981-4C3A-9013-5D35B4BC9808}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D24A572-6981-4C3A-9013-5D35B4BC9808}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBA78E0-DFE4-4786-B463-42D98ECE259A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBA78E0-DFE4-4786-B463-42D98ECE259A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBA78E0-DFE4-4786-B463-42D98ECE259A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBA78E0-DFE4-4786-B463-42D98ECE259A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40E38C6-605E-49A8-B35C-383AE5137AE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40E38C6-605E-49A8-B35C-383AE5137AE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40E38C6-605E-49A8-B35C-383AE5137AE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40E38C6-605E-49A8-B35C-383AE5137AE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
